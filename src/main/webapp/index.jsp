@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>JAI SREE RAM</h2>
+<h2>Bharat Mata ki jai</h2>
 </body>
 </html>
